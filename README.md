@@ -94,4 +94,4 @@ Completed within **5 business days**:
 ---
 
 ## 📩 Get Started
-Contact via [School of Freelancing](https://schooloffreelancing.com) to scope your Vapi support request.
+Contact via [School of Freelancing](https://wa.me/8801748973769) to scope your Vapi support request.
