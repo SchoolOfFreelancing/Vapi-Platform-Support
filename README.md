@@ -2,7 +2,7 @@
 
 Voice AI agent setup, configuration, and troubleshooting on Vapi. Support and testing delivered within **5 business days**.
 
-![Source](https://img.shields.io/badge/Platform-Vapi-0069FF)
+![Source](https://img.shields.io/badge/Tech-Voice AI agent-0069FF)
 ![Delivery](https://img.shields.io/badge/Delivery-5%20BusinessDays-brightgreen)
 ![Format](https://img.shields.io/badge/Format-Remote--Job%20-brightgreen)
 ![Support](https://img.shields.io/badge/Support-24%2F7-orange)
